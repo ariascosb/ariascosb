@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Colombia <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariascosb" alt="ariascosb" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+-  I’m currently learning **Data Science**
 
 <h4>Stack I work with</h4>
 <p align="center">
