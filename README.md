@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Juan David Alvarez Gamez</h1>
+<h1 align="center">Hi 👋, I'm Andres Riascos Bravo</h1>
 <h3 align="center">A passionate developer from Colombia <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juandavidalvarez9" alt="juandavidalvarez9" /> </p>
-
-- 🔭 I am currently working in Telemetry at the GIT Masivo
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariascosb" alt="ariascosb" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
-
-- 📫 How to reach me **juandavidalvarezgamez@gmail.com**
 
 <h4>Stack I work with</h4>
 <p align="center">
@@ -20,8 +16,8 @@
 
  
  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=juandavidalvarez9&show_icons=true&hide=contribs" alt="juandavidalvarez9" /> 
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=juandavidalvarez9&layout=compact" alt="juandavidalvarez9" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ariascosb&show_icons=true&hide=contribs" alt="ariascosb" /> 
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ariascosb&layout=compact" alt="ariascosb" />
  </p>
 
 <!--
